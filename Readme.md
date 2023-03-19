@@ -34,6 +34,8 @@ Input the first number >> 1
 
 Input the second number >> 2
 
+(Python version: Input the Numbers in [first number] [second number] format)
+
 ===
 
 1 + 2 equals to 3
