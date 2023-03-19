@@ -45,14 +45,11 @@ Input the second number >> 2
 
 # Language
 
-C
-
-C++
-
-Python
-
-Java
-
-Javascript
-
-Excel VBA
+|Language| Upload Date|
+| --- | --- |
+| C | tbd |
+| C++ | tbd |
+| Python | 19 MAR 2023 |
+| Java | tbd |
+| Javascript | tbd |
+| Excel VBA | tbd |
